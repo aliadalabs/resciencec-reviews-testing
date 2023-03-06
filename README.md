@@ -1,2 +1,2 @@
-# resciencec-reviews-testing
+# ReScience C reviews :: Test
 ReScience C reviews - Test repo 
